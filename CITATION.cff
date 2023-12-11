@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: E_Coli_Bacteraemia_Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mark P.
+    family-names: Khurana
+    email: mark.khurana@sund.ku.dk
+    affiliation: University of Copenhagen
+  - given-names: Jacob
+    family-names: Curran-Sebastian
+    email: jacob.curran@sund.ku.dk
+    affiliation: University of Copenhagen
+  - given-names: Samir
+    family-names: Bhatt
+    email: samir.bhatt@sund.ku.dk
+    affiliation: University of Copenhagen
+  - given-names: Gwenan M.
+    family-names: Knight
+    email: Gwen.Knight@lshtm.ac.uk
+    affiliation: London School of Hygiene and Tropical Medicine
+repository-code: 'https://github.com/mark-khurana/E_Coli_Bacteraemia_Model'
+abstract: >-
+  Modelling the implementation of narrow versus broader
+  spectrum antibiotics in the empiric treatment of E. coli
+  bacteraemia.
+license: MIT
+version: '1'
+date-released: '2023-12-11'
